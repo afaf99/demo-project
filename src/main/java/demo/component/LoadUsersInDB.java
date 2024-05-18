@@ -32,10 +32,10 @@ public class LoadUsersInDB implements CommandLineRunner {
         User user4 = new User("RoseS", UUID.randomUUID().toString(),"Rose", "Saad", 20, "Saudi Arabia");
         User user5 = new User("MahaH", UUID.randomUUID().toString(),"Maha", "Hatim", 23, "Saudi Arabia");
         User user6 = new User("AmalA", UUID.randomUUID().toString(),"Amal", "Abdulmotaleb", 40, "Saudi Arabia");
-        User user7 = new User("Mona", UUID.randomUUID().toString(),"Mona", "Bakr", 31, "Saudi Arabia");
-        User user8 = new User("Sally", UUID.randomUUID().toString(),"Sally", "Nader", 28, "Saudi Arabia");
-        User user9 = new User("Ruby", UUID.randomUUID().toString(),"Ruby", "Omer", 29, "Saudi Arabia");
-        User user10 = new User("Reem", UUID.randomUUID().toString(),"Reem", "Sultan", 38, "Saudi Arabia");
+        User user7 = new User("MonaB", UUID.randomUUID().toString(),"Mona", "Bakr", 31, "Saudi Arabia");
+        User user8 = new User("SallyN", UUID.randomUUID().toString(),"Sally", "Nader", 28, "Saudi Arabia");
+        User user9 = new User("RubyO", UUID.randomUUID().toString(),"Ruby", "Omer", 29, "Saudi Arabia");
+        User user10 = new User("ReemS", UUID.randomUUID().toString(),"Reem", "Sultan", 38, "Saudi Arabia");
 
         List<User> userList = Arrays.asList(user1, user2, user3, user4, user5, user6, user7, user8, user9, user10);
 
