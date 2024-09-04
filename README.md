@@ -1,5 +1,3 @@
-# Hi, I'm Afaf! 👋
-
 
 ##Full Stack Web Development Project
 This repository contains two full-stack systems developed as part of a course on web development.
